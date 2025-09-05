@@ -2,15 +2,17 @@
 
 By Rena Fukuda
 
-Video overview: NA
 
 ## Scope
 
-In this section you should answer the following questions:
+This database organizes the food descriptions in the book series
+"A Song of Ice and Fire" by George R.R. Martin, ranked by Youtubers 'Glidus' and 
+'AltSchwiftX'. The database includes the  reviewers, the passages (food descriptions)
+they have read, as well as the ratings they have given each passage. Additionally,
+the database contains information regarding the POV character in each passage, 
+as well as the book in which each passage is found.
 
-* What is the purpose of your database?
-* Which people, places, things, etc. are you including in the scope of your database?
-* Which people, places, things, etc. are *outside* the scope of your database?
+This database does not take into account non-POV characters that may be present.
 
 ## Functional Requirements
 
